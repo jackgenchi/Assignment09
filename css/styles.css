@@ -1,0 +1,16 @@
+body {
+    background-color: lightgrey;
+}
+header {
+    background-color: pink;
+    
+}
+/*.btn-secondary {
+    margin: 1em;
+}*/
+.dateButtons, .mathButtons, .stringButtons, .deathButtons {
+    display: none;
+}
+.visBtn {
+    display:inline;
+}
